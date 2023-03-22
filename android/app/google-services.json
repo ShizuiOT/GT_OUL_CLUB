@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "902270002710",
+    "project_id": "gtoilclub-68b8e",
+    "storage_bucket": "gtoilclub-68b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902270002710:android:d37a46ab5b205d8cee3737",
+        "android_client_info": {
+          "package_name": "com.mycompany.num1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902270002710-pp7hjee19qifd70dap8o4si1tbc6kdj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.num1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "902270002710-f1apuj5revik008i7rfqn9kjuqpg4ude.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aznJxe8W2XTQ4E52kFNRLvAGErG61Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902270002710-f1apuj5revik008i7rfqn9kjuqpg4ude.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "902270002710-dlvtlk0rv342eotu0imq2t188c8dhm3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.num1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
